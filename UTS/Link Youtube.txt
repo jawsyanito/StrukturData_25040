@@ -1,2 +1,3 @@
-Buat Penjelasan codenya : https://youtu.be/hmgCMf27UXI
+Buat Penjelasan codenya : https://youtu.be/jLX9PIbn49s
 Timestamp dan  ada di deskripsi
+Kode juga bisa di akses di GitHub : https://github.com/jawsyanito/StrukturData_25040/tree/main/UTS
