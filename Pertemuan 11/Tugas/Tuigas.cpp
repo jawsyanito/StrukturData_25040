@@ -22,7 +22,7 @@ int bestPath[MAX + 1];
 int tempPath[MAX + 1];
 
 // Nilai awal minimum jarak
-int jarakMinimal;
+int jarakMinimal = 999999;
 
 // Fungsi TSP (Traveling Salesman Problem) pakai rekursif
 void tsp(int current, int start, int count, int jarakTotal) {
